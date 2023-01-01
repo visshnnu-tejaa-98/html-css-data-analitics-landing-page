@@ -67,6 +67,11 @@ nav ul li:last-child button {
   width: 50%;
 }
 
+.btn {
+  width: 200px;
+  display: inline;
+}
+
 .section2 .right-content {
   height: 500px;
   width: 50%;
